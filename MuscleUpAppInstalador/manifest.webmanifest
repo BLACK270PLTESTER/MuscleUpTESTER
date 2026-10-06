@@ -1,0 +1,18 @@
+{
+  "id":"./",
+  "name":"MuscleUp — Training & Health",
+  "short_name":"MuscleUp",
+  "start_url":"./?app=1",
+  "scope":"./",
+  "display":"standalone",
+  "display_override":["standalone"],
+  "orientation":"portrait-primary",
+  "background_color":"#050505",
+  "theme_color":"#050505",
+  "description":"MuscleUp — entrenamiento, salud, recuperación, progreso y un copiloto de IA.",
+  "icons":[
+    {"src":"img/favicon.png","sizes":"64x64","type":"image/png"},
+    {"src":"img/apple-touch-icon.png","sizes":"180x180","type":"image/png"},
+    {"src":"img/muscleup-icon-orange-health.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "muscleup-ai-backend",
+  "private": true,
+  "version": "26.0.0",
+  "dependencies": {
+    "openai": "latest"
+  },
+  "engines": {
+    "node": ">=22 <25"
+  }
+}
